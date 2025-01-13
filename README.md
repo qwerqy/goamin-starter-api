@@ -66,7 +66,8 @@ air
 
 ### Environment variables
 
-You can set environment variables in `.envrc` file.
+You can set environment variables in `.envrc` file. Refer to `.env.example` for
+more information.
 
 I use [direnv](https://direnv.net/) to manage environment variables.
 
