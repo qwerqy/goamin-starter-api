@@ -1,5 +1,7 @@
 # Go API server starter
 
+This is a starter project for building Go API servers.
+
 ## Structure
 
 `bin` is where compiled code will be.
